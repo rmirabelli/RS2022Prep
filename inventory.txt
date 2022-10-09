@@ -1,8 +1,46 @@
 A list of various parts I own and am ready to use in the RS2022 project
 
-Big batch of transistors
-2 midi cables
-Big batch of switches
-Optocouplers
-Big batch of potentiometers
-2 16x16 LED panels
+Arduino Nano (3)
+Raspberry PI 4 (3)
+Adruino UNO (1)
+Arduino Mega (1)
+Raspberry PI 3 (1)
+Raspberry PI Zero W (1)
+Raspberry PI Pico (7)
+Raspberry PI Pico W (2)
+
+Midi cables (2)
+
+Transistors (250)
+Resistors
+Capacitors
+LEDs
+Diodes
+Optocouplers (8)
+Analog multiplexer (8)
+Serial Wombat (2)
+SPST switches (10)
+SPDT switches (10)
+Pushbuttons
+10K potentiometers (60)
+Slider potentiometer (10)
+Rotary Encoder on board (10)
+Audio Jacks (20)
+MIDI jack (10)
+
+16x16 LED panels (2)
+8x8 LED panel (1)
+8x8 mono LED panel (4)
+160x128 TFT display (3)
+LED strip (1)
+2-line OLED display (4)
+LED Christmas syle lights (1)
+
+5V power adapters (5)
+Raspberry Pi breakout (2)
+Raspberry Pi GPIO 3x breakout (1)
+Raspberry PI audio hat (1)
+Prototyping boards
+DACs (2)
+
+Time Machine Kit (1)
